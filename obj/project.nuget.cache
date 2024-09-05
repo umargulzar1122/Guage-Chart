@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvSCKYEa+5Ts34j9Xd4IEiHwoMoRzwHVUI6qdo779pbsQmh58mwSgqJEirRNHIXXuhGJuzKpaVs26NmLWvpe0w==",
+  "success": true,
+  "projectFilePath": "C:\\UMAR_PERSONAL\\_WorkSpace\\Canvas_Components\\Canvas_Component\\FinalVersions\\Nexus\\GaugeChart\\GaugeChart.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umarg\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\umarg\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\umarg\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.34.3\\microsoft.powerapps.msbuild.pcf.1.34.3.nupkg.sha512"
+  ],
+  "logs": []
+}
